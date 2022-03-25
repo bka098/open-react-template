@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                  Virtual Training
+                   Training
                     </h4>
                   <p className="m-0 text-sm">
-                  VR games will take you live the opportunity you love to be in the future 
+                  We have two types of traning for you, it will on site in companey or virtual reality 
 
                     </p>
                 </div>

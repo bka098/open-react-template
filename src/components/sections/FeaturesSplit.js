@@ -67,13 +67,18 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                More speed. Less spend
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Book Your Consulter
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Expert consulting team will help you to find the right way to the future: 
+                <p></p>
+                <p className="m-0">- Experts </p>
+                <p className="m-0">- 30 minute meeting </p>
+                <p className="m-0">- live chat </p>
+
                   </p>
               </div>
               <div className={
@@ -93,14 +98,21 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  More speed. Less spend
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Professional & Authentic Test
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                The quiz beasd on specialist in psychology that will help you to find the right way for your career.  
+                <p></p>
+                <p className="m-0">- Professional quiz </p>
+                <p className="m-0">- Authentic quiz </p>
+                <p className="m-0">- Based on professional psychologist 
+ </p>
+
+                </p>
+
               </div>
               <div className={
                 classNames(
@@ -119,13 +131,18 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                More speed. Less spend
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Training
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                We have two types of training is using Virtual reality and on site with companies
+                <p></p>
+                <p className="m-0">- Games are close to reality  </p>
+                <p className="m-0">- Feel the moment</p>
+                <p className="m-0">- FGet more knowledge from expert</p>
+                
                   </p>
               </div>
               <div className={
@@ -145,6 +162,7 @@ const FeaturesSplit = ({
           </div>
         </div>
       </div>
+    
     </section>
   );
 }

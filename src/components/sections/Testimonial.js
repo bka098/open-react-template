@@ -3,6 +3,7 @@ import classNames from 'classnames';
 import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 
+
 const propTypes = {
   ...SectionTilesProps.types
 }
@@ -44,8 +45,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Customer testimonials',
-    paragraph: 'Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.'
+    title: 'Best couches in Yomnakk',
+    paragraph: 'Our consulting team are the best, but there are high rating consulters as shown down here'
   };
 
   return (
@@ -112,6 +113,7 @@ const Testimonial = ({
           </div>
         </div>
       </div>
+    
     </section>
   );
 }

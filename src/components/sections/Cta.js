@@ -4,6 +4,7 @@ import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import Input from '../elements/Input';
 
+
 const propTypes = {
   ...SectionProps.types,
   split: PropTypes.bool
@@ -43,17 +44,20 @@ const Cta = ({
   );  
 
   return (
+    
     <section
       {...props}
       className={outerClasses}
     >
+  
       <div className="container">
         <div
           className={innerClasses}
         >
+          
           <div className="cta-slogan">
             <h3 className="m-0">
-              For previewing layouts and visual?
+              For Any Inquery About Us Please Leave Your Email And Will Contact You
               </h3>
           </div>
           <div className="cta-action">
